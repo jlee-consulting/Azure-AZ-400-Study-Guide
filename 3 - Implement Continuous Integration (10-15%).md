@@ -1,4 +1,4 @@
-# Implement Continuous Integration (10-15%)
+# AZ-400: Implement Continuous Integration (10-15%)
 ## Manage Code Quality and Security Policies
 - Monitor Code Quality
 - Configure Build to Report on Code Coverage
@@ -12,7 +12,7 @@
 
 ## Implement a Container Build Strategy
 - Create Deployable Images, for example:
-    - Docker
+    - Docker Hub
     - Azure Container Registry
 - Analyze and Integrate Docker Multi-Stage Builds
 
@@ -28,3 +28,5 @@
     - Azure Pipelines
     - Jenkins
 - Set up an Automated Build Workflow
+
+[Return to Table of Contents](README.md)

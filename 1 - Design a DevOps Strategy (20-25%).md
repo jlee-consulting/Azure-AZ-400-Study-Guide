@@ -3,6 +3,8 @@
 - Analyze Existing Artifact, for example:
     - Deployment Packages
     - NuGet
+    - Maven
+    - npm
 - Analyze Container Repositories
 - Analyze Existing Test Management Tools
     - [Azure Test Plans](https://docs.microsoft.com/en-us/azure/devops/test/index-tp?view=azure-devops)
@@ -10,7 +12,7 @@
     - [Azure Boards](https://docs.microsoft.com/en-us/azure/devops/boards/index?view=azure-devops)
 - Recommend Migration and Integration Strategies for:
     - Artifact Repositories
-    - Source Control
+    - [Source Control](https://docs.microsoft.com/en-us/azure/devops/user-guide/source-control) | [Import repositories from TFVC to Git](https://docs.microsoft.com/en-us/azure/devops/repos/git/import-from-tfvc?view=azure-devops)
     - Test Management
     - Work Management
 
@@ -25,7 +27,7 @@
 - Implement Tools and Processes to support Agile Work Management
 - Mentor Team Members on Agile Techniques and Practices
 - Recommend an Organization Structure that supports Scaling Agile Practices
-- Recommend In-Team and Cross-Team Collaboration Mechanisms
+- [Recommend In-Team and Cross-Team Collaboration Mechanisms](https://docs.microsoft.com/en-us/azure/devops/boards/get-started/what-is-azure-boards?view=azure-devops&tabs=basic-process)
 
 ## Design a Quality Strategy
 - Analyze Existing Quality Environment
@@ -39,7 +41,8 @@
 - Inspect and Validate Code Base for Compliance
 - Inspect and Validate Infrastructure for Compliance
 - Recommend a Secure Development Strategy
-- Recommend Tools and Practices to Integrate Code Security Validation (e.g., Static Code Analysis)
+- Recommend Tools and Practices to Integrate Code Security Validation, for example:
+    - Static Code Analysis
 - Recommend Tools and Practices to Integrate Infrastructure Security Validation
 
 ## Design a tool integration strategy
@@ -54,3 +57,5 @@
 - Design a Strategy for Integrating Monitoring and Feedback to Development Teams
 - Design an Authentication and Access Strategy
 - Design a Strategy for Integrating On-premises and Cloud Resources
+
+[Return to Table of Contents](README.md)
